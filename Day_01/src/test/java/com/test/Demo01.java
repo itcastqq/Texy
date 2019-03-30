@@ -5,4 +5,7 @@ public class Demo01 {
         System.out.println("Day02");
         System.out.println("2的");
     }
+    public static void main(String[] args) {
+        System.out.println("Day01");
+    }
 }
