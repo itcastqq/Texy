@@ -5,6 +5,5 @@ public class Demo01 {
         System.out.println("Demo01");
         String name ;
         System.out.println("Demo-2");
-        System.out.println("Demo03");
     }
 }
